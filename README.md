@@ -221,6 +221,11 @@ https://cdn.jsdelivr.net/gh/DJB-Developer/TikTok-Unlock@master/Surge/TikTok.list
 
 3、点击`配置` → `模块` → 右上角加号，添加想看国家的对应模块。
 
+**ASN白名单**
+```
+https://cdn.jsdelivr.net/gh/DJB-Developer/TikTok-Unlock@master/Surge/TiKTok.conf
+```
+
 **日本**
 ```
 https://cdn.jsdelivr.net/gh/DJB-Developer/TikTok-Unlock@master/Shadowrocket/TiKTok-JP.conf
