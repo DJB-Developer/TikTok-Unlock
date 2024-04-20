@@ -81,22 +81,22 @@
 
 **日本**
 ```
-https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Quantumult-X/TikTok-JP.conf, tag=TikTok, update-interval=86400, opt-parser=false, enabled=true
+https://ghproxy.com/raw.githubusercontent.com/DJB-Developer/TikTok-Unlock/master/Quantumult-X/TikTok-JP.conf, tag=TikTok, update-interval=86400, opt-parser=false, enabled=true
 ```
 
 **台湾**
 ```
-https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Quantumult-X/TikTok-TW.conf, tag=TikTok, update-interval=86400, opt-parser=false, enabled=true
+https://ghproxy.com/raw.githubusercontent.com/DJB-Developer/TikTok-Unlock/master/Quantumult-X/TikTok-TW.conf, tag=TikTok, update-interval=86400, opt-parser=false, enabled=true
 ```
 
 **韩国**
 ```
-https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Quantumult-X/TikTok-KR.conf, tag=TikTok, update-interval=86400, opt-parser=false, enabled=true
+https://ghproxy.com/raw.githubusercontent.com/DJB-Developer/TikTok-Unlock/master/Quantumult-X/TikTok-KR.conf, tag=TikTok, update-interval=86400, opt-parser=false, enabled=true
 ```
 
 **美国**
 ```
-https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Quantumult-X/TikTok-US.conf, tag=TikTok, update-interval=86400, opt-parser=false, enabled=true
+https://ghproxy.com/raw.githubusercontent.com/DJB-Developer/TikTok-Unlock/master/Quantumult-X/TikTok-US.conf, tag=TikTok, update-interval=86400, opt-parser=false, enabled=true
 ```
 
 
@@ -120,7 +120,7 @@ hostname = *.tiktokv.com, *.byteoversea.com, *.tik-tokapi.com
 4、找到`[filter_remote]`添加下句分流(无论使用方法一或是方法二，此分流都需要添加！)
 
 ```
-https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Quantumult-X/TikTok.list, tag=TikTok, force-policy=TikTok, update-interval=86400, opt-parser=false, enabled=true
+https://ghproxy.com/raw.githubusercontent.com/DJB-Developer/TikTok-Unlock/master/Quantumult-X/TikTok.list, tag=TikTok, force-policy=TikTok, update-interval=86400, opt-parser=false, enabled=true
 ```
 
 5、换区：在[rewrite_local]中添加下句重写，并将`CN`改为想看的国家/地区的2位`大写`英文简写 JP（日本）｜KR（韩国）｜UK（英国）｜US（美国）｜TW（台湾）
@@ -146,28 +146,28 @@ https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Quantumult-X/Tik
 
 **日本**
 ```
-https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Loon/TikTok-JP.plugin
+https://ghproxy.com/raw.githubusercontent.com/DJB-Developer/TikTok-Unlock/master/Loon/TikTok-JP.plugin
 ```
 
 **台湾**
 ```
-https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Loon/TikTok-TW.plugin
+https://ghproxy.com/raw.githubusercontent.com/DJB-Developer/TikTok-Unlock/master/Loon/TikTok-TW.plugin
 ```
 
 **韩国**
 ```
-https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Loon/TikTok-KR.plugin
+https://ghproxy.com/raw.githubusercontent.com/DJB-Developer/TikTok-Unlock/master/Loon/TikTok-KR.plugin
 ```
 
 **美国**
 ```
-https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Loon/TikTok-US.plugin
+https://ghproxy.com/raw.githubusercontent.com/DJB-Developer/TikTok-Unlock/master/Loon/TikTok-US.plugin
 ```
 
 3、在`[Remote Rule]`下面添加TikTok分流规则，示例如下：
 
 ```
-https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Loon/TikTok.list, tag=TikTok, policy=TikTok, update-interval=86400, enabled=true
+https://ghproxy.com/raw.githubusercontent.com/DJB-Developer/TikTok-Unlock/master/Loon/TikTok.list, tag=TikTok, policy=TikTok, update-interval=86400, enabled=true
 ```
 
 ---
@@ -183,28 +183,28 @@ https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Loon/TikTok.list
 
 **日本**
 ```
-https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Surge/TiKTok-JP.sgmodule
+https://ghproxy.com/raw.githubusercontent.com/DJB-Developer/TikTok-Unlock/master/Surge/TiKTok-JP.sgmodule
 ```
 
 **台湾**
 ```
-https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Surge/TiKTok-TW.sgmodule
+https://ghproxy.com/raw.githubusercontent.com/DJB-Developer/TikTok-Unlock/master/Surge/TiKTok-TW.sgmodule
 ```
 
 **韩国**
 ```
-https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Surge/TiKTok-KR.sgmodule
+https://ghproxy.com/raw.githubusercontent.com/DJB-Developer/TikTok-Unlock/master/Surge/TiKTok-KR.sgmodule
 ```
 
 **美国**
 ```
-https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Surge/TiKTok-US.sgmodule
+https://ghproxy.com/raw.githubusercontent.com/DJB-Developer/TikTok-Unlock/master/Surge/TiKTok-US.sgmodule
 ```
 
 3、添加以下`分流`
 
 ```
-https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Surge/TikTok.list
+https://ghproxy.com/raw.githubusercontent.com/DJB-Developer/TikTok-Unlock/master/Surge/TikTok.list
 ```
 
 ---
@@ -223,28 +223,28 @@ https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Surge/TikTok.lis
 
 **日本**
 ```
-https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Shadowrocket/TiKTok-JP.conf
+https://ghproxy.com/raw.githubusercontent.com/DJB-Developer/TikTok-Unlock/master/Shadowrocket/TiKTok-JP.conf
 ```
 
 **台湾**
 ```
-https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Shadowrocket/TiKTok-TW.conf
+https://ghproxy.com/raw.githubusercontent.com/DJB-Developer/TikTok-Unlock/master/Shadowrocket/TiKTok-TW.conf
 ```
 
 **韩国**
 ```
-https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Shadowrocket/TiKTok-KR.conf
+https://ghproxy.com/raw.githubusercontent.com/DJB-Developer/TikTok-Unlock/master/Shadowrocket/TiKTok-KR.conf
 ```
 
 **美国**
 ```
-https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Shadowrocket/TiKTok-US.conf
+https://ghproxy.com/raw.githubusercontent.com/DJB-Developer/TikTok-Unlock/master/Shadowrocket/TiKTok-US.conf
 ```
 
 4、添加以下`分流`，点击`配置` → 你使用的配置后的`i` → `规则` → 右上角加号 → `类型` → 选择`RULE-SET` → 策略 → 选择`PROXY`或者其他你想使用的策略（一般是对应地区的代理服务器节点） → 规则集URL文本框内填写
 
 ```
-https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Shadowrocket/TikTok.list
+https://ghproxy.com/raw.githubusercontent.com/DJB-Developer/TikTok-Unlock/master/Shadowrocket/TikTok.list
 ```
 
 ---
