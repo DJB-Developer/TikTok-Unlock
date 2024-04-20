@@ -223,7 +223,7 @@ https://cdn.jsdelivr.net/gh/DJB-Developer/TikTok-Unlock@master/Surge/TikTok.list
 
 **ASN白名单**
 ```
-https://cdn.jsdelivr.net/gh/DJB-Developer/TikTok-Unlock@master/Surge/TiKTok.conf
+https://cdn.jsdelivr.net/gh/DJB-Developer/TikTok-Unlock@master/Shadowrocket/TiKTok.conf
 ```
 
 **日本**
