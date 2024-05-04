@@ -7,5 +7,5 @@ https://cdn.jsdelivr.net/gh/DJB-Developer/TikTok-Unlock@master/Shadowrocket/TiKT
 
 **ASN回国**
 ```
-https://cdn.jsdelivr.net/gh/DJB-Developer/TikTok-Unlock@master/Shadowrocket/ComeBack.conf
+https://cdn.jsdelivr.net/gh/DJB-Developer/TikTok-Unlock@master/Shadowrocket/Comeback.conf
 ```
